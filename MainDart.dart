@@ -1,7 +1,4 @@
-//import 'package:skillbox_practice_2_4/skillbox_practice_2_4.dart';
 import './skillboxPractice_2_lib.dart';
-//import 'package:skillbox_practice_2_4/lib/skillboxPractice_2_lib.dart';
-
 
 void main() {
   print('-------- ======= 1 ======== --------');
