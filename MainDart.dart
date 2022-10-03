@@ -18,6 +18,7 @@ void main() {
   int lcm = dc.getLeastCommonMultiple(126,70);
   print('LCM=$lcm');
 
+
   print('');
   print('-------- ======= 2 ======== --------');
   var nst = NumberSystemTranslator();
